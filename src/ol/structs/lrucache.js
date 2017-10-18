@@ -145,6 +145,7 @@ ol.structs.LRUCache.prototype.remove = function(key) {
 
 
 /**
+ * @api
  * @return {number} Count.
  */
 ol.structs.LRUCache.prototype.getCount = function() {
